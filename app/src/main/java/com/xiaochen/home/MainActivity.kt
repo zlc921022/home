@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val tv = findViewById<TextView>(R.id.tv)
-        tv.text = "测试数据"
+        tv.text = "测试数据222"
     }
 }
